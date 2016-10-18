@@ -112,6 +112,7 @@
     <Content Include="Assets\sass\ie8.scss" />
     <Content Include="Assets\sass\ie9.scss" />
     <Content Include="Assets\sass\main.scss" />
+    <Content Include="Assets\ResumeRobertHorrocks091416.pdf" />
     <None Include="Properties\PublishProfiles\HorrocksPortfolio.pubxml" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <None Include="Web.Debug.config">
