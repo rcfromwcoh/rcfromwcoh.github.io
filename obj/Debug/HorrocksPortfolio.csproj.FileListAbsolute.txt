@@ -1,4 +1,3 @@
-C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\ApplicationInsights.config
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\roslyn\csc.exe
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -28,3 +27,6 @@ C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-ma
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\obj\Debug\HorrocksPortfolio.csprojResolveAssemblyReference.cache
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\obj\Debug\HorrocksPortfolio.dll
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\obj\Debug\HorrocksPortfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\HorrocksPortfolio.dll.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\HorrocksPortfolio.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Horrocks-Portfolio-master\Horrocks-Portfolio-master\HorrocksPortfolio\bin\HorrocksPortfolio.pdb
